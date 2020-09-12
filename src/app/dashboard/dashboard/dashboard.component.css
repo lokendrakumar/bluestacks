@@ -164,6 +164,86 @@ td span.currencyIcon {
     margin-right: 8px;
 }
 
+
+.overlay {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dashboardPopup {
+    width: 400px;
+    min-height: 150px;
+    background: #fff;
+    padding: 15px;
+}
+.dashboardPopupHeader {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+.dashboardPopupHeader img {
+    width: 137px;
+    position: relative;
+    left: -12px;
+}
+.dashboardPopupHeader h3 {
+    color: #2B416C;
+    font-size: 17px;
+    font-weight: 500;
+}
+.dashboardPopupHeader p {
+    color: #9CA2B7;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    top: 4px;
+}
+.dashboardPopupContent h2 {
+    color: #2B416C;
+    font-size: 24px;
+    font-weight: 700;
+    margin: 12px 0 20px 0;
+}
+.pricingDataRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.pricingDataRow p {
+    color: #7788A3;
+    font-size: 16px;
+    font-weight: 400;
+}
+.pricingDataRow span {
+    color: #556789;
+    font-size: 16px;
+    font-weight: 700;
+}
+.dashboardPopupFooter {
+    margin: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dashboardPopupFooter button {
+    border: 2px solid #181B34;
+    width: 84px;
+    height: 48px;
+    outline: none;
+    color: #181B34;
+    font-size: 16px;
+    font-weight: 700;
+    background: transparent;
+}
+
+
 /* 
 Max width before this PARTICULAR table gets nasty
 This query will take effect for any screen smaller than 760px
@@ -231,4 +311,9 @@ and also iPads specifically.
         font-size: 16px;
     }
 }
+
+
+
+
+
 
