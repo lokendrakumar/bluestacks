@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "bluestacks"
+    }
+  },
+  "defaultProject": "bluestacks",
+  "cli": {
+    "analytics": "9d73b953-cc94-456b-bc60-442a2e01241b"
+  }
 }
