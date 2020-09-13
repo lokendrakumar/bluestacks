@@ -37,9 +37,9 @@ h1,h2,h3,h4,h5,h6,ul,ol {
     left: -200vw;
   }
 
-.tabset .tab-panel {
+/* .tabset .tab-panel {
     display: none;
-  }
+  } */
 
   
   .tabset > input:first-child:checked ~ .tab-panels > .tab-panel:first-child,
@@ -242,7 +242,9 @@ td span.currencyIcon {
     font-weight: 700;
     background: transparent;
 }
-
+.cursor {
+    cursor: pointer;
+}
 
 /* 
 Max width before this PARTICULAR table gets nasty

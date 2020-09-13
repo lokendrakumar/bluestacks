@@ -1,0 +1,94 @@
+{
+  "data": [{
+      "name": "Test Whatsapp",
+      "region": "US",
+      "createdOn": 1559807714999,
+      "price": {
+        "monthly": 100,
+        "half_year": 500,
+        "yearly": 1000
+      },
+      "csv": "Some CSV link for Whatsapp",
+      "report": "Some report link for Whatsapp",
+      "image_url":"Some image url of the campaign" 
+    },
+    {
+      "name": "Super Jewels Quest",
+      "region": "CA, FR",
+      "createdOn": 1559806715124,
+      "price": {
+        "monthly": 200,
+        "half_year": 1000,
+        "yearly": 2000
+      },
+      "csv": "Some CSV link for Super Jewels Quest",
+      "report": "Some report link for Super Jewels Ques",
+      "image_url":"Some image url of the campaign"
+    },
+    {
+      "name": "Mole Slayer",
+      "region": "FR",
+      "createdOn": 1559806711124,
+      "price": {
+        "monthly": 300,
+        "half_year": 1000,
+        "yearly": 3000
+      },
+      "csv": "Some CSV link for Mole Slayer",
+      "report": "Some report link for Mole Slayer",
+      "image_url":"Some image url of the campaign"
+    },
+    {
+      "name": "Pubg",
+      "region": "india",
+      "createdOn": 1616019973890,
+      "price": {
+        "monthly": 1000,
+        "half_year": 500,
+        "yearly": 1000
+      },
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url":"Some image url of the campaign"
+    },
+    {
+      "name": "Battel combat",
+      "region": "India",
+      "createdOn": 1610019973890,
+      "price": {
+        "monthly": 1000,
+        "half_year": 500,
+        "yearly": 1000
+      },
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url":"Some image url of the campaign"
+    },
+    {
+      "name": "FireGum",
+      "region": "delhi",
+      "createdOn": 1620019473890,
+      "price": {
+        "monthly": 1000,
+        "half_year": 500,
+        "yearly": 1000
+      },
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url":"Some image url of the campaign"
+    },
+    {
+      "name": "Mix Pubg Online",
+      "region": "mumbai",
+      "createdOn": 1630019673890,
+      "price": {
+        "monthly": 1000,
+        "half_year": 500,
+        "yearly": 1000
+      },
+      "csv": "Some CSV link for Mancala Mix",
+      "report": "Some report link for Mancala Mix",
+      "image_url":"Some image url of the campaign"
+    }
+  ]
+}
